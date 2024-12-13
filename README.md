@@ -8,9 +8,11 @@ A passionate Frontend Developer with experience in HTML, CSS, JavaScript, React,
 - 🤖 Currently learning the fundamentals of Generative AI and learning DSA.
 - 📅 2024 Goals: Master Generative AI, deepen my knowledge of frontend technologies, and collaborate on open-source projects.
 
-  ## GitHub Stats:
+## GitHub Stats:
 
 ![Jahnvi Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=verma-jaanvi&show_icons=true&hide=prs&count_private=true&theme=dark&bg_color=0d1117) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verma-jaanvi&layout=compact&theme=dark&bg_color=0d1117) 
+
+  ## Leetcode Stats:
 [![LeetCode Streak](https://leetcard.jacoblin.cool/verma-jaanvi?theme=dark&ext=heatmap)](https://leetcode.com/verma-jaanvi/) 
 
 
