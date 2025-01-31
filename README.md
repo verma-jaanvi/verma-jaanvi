@@ -10,8 +10,7 @@ A passionate Frontend Developer with experience in HTML, CSS, JavaScript, React,
 
 ## GitHub Stats:
 
-![Jahnvi's Stats](https://github-readme-stats.vercel.app/api?username=verma-jaanvi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![Jahnvi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=verma-jaanvi&theme=tokyonight&hide_border=false) ![Jahnvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verma-jaanvi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) 
-
+![Jahnvi's Stats](https://github-readme-stats.vercel.app/api?username=verma-jaanvi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![Jahnvi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=verma-jaanvi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) ![Jahnvi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=verma-jaanvi&theme=tokyonight&hide_border=false) 
 ## Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=verma-jaanvi&theme=darkhub)
 
